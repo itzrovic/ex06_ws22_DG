@@ -12,6 +12,8 @@ def generate_lotto_numbers(count_of_num: int, max_num: int) -> list:
 # output = generate_lotto_numbers(6, 45)
 # print(output) 
 
+print("bottee agdfgdfg")
+
 print(generate_lotto_numbers(6, 45))
 print(generate_lotto_numbers(6, 49))
 print(generate_lotto_numbers(4, 50))
