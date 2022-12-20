@@ -1,3 +1,6 @@
 Added function generate_lotto_numbers
 Not implemented yet
 Funtion generate_lotto_numbers immplemented
+print(generate_lotto_numbers(4, 50)) -> # print(generate_lotto_numbers(4, 50))
+print(generate_lotto_numbers(6, 6)) -> # print(generate_lotto_numbers(6, 6))
+Function generate_lotto_numbers extended feature: does not return numbers twice anymore
