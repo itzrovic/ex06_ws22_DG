@@ -1,4 +1,5 @@
 # Danir Garmayev
+# click link to see on GitHub https://github.com/itzrovic/ex06_ws22_DG
 import random
 
 
