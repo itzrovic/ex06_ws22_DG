@@ -1,0 +1,3 @@
+Added function generate_lotto_numbers
+Not implemented yet
+Funtion generate_lotto_numbers immplemented
